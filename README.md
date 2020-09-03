@@ -1,5 +1,5 @@
-# Python-Course-Norwegian
-Et 6 timers kurs jeg har laget som gir en introduksjon til Python. Følg lenkene under for å se videoene. 
+# Introduksjonskurs til Python på Norsk
+Et 6 timers introduksjonskurs til Python jeg har laget på vegne av kurset IMA*1001 Høst 2020 som gikk parallelt på NTNU Trondheim, NTNU Ålesund, og NTNU Gjøvik. Følg lenkene under for å se videoene. 
 
 1. [Python Time 1 - Grunnleggende Python](https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d9c4f88d-96d9-439c-8573-ac2a014d16fa)
 2. [Python Time 2 - Input & Kontrollflyt](https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2aa0f4ec-def7-4b8d-9de4-ac2a014f5e51)
