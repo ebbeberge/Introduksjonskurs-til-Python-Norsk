@@ -10,3 +10,5 @@ Et 6 timers introduksjonskurs til Python jeg har laget på vegne av kurset IMA*1
 
 * Dere finner Jupiter notebook arkene jeg bruker i videoene her i Githubben.
 * Det ligger også et PDF sammendrag her i Githubben som kort forklarer hva som blir gått igjennom i kurset.
+
+Dersom du er en foreleser og ønsker å bruke videoene mine til et kurs, så er det helt supert. Fint om du lar meg vite det slik at jeg har litt oversikt om hvem som har brukt videoene :)
