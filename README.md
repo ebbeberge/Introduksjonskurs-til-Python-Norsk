@@ -12,4 +12,8 @@ Et 7 timers introduksjonskurs til Python jeg har laget på vegne av kurset IMA*1
 * Dere finner Jupiter notebook arkene jeg bruker i videoene her i Githubben.
 * Det ligger også et PDF sammendrag her i Githubben som kort forklarer hva som blir gått igjennom i kurset.
 
+I løpet av våren 2021 så har jeg gitt en ny version av `NumPy og MatPlotLib` forelesningen som fokuserer på lineær rekursjonsligninger og har tar opp noen andre ting. Jupyter arkene kan bli funnet i mappen `MM2` her i Githubben, mens videoene kan bli funnet her:
+
+[Løse Rekursjonsligninger med NumPy og MatPlotLib](https://ntnu.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=6848f7b9-770d-471d-9322-acd500072ea5)
+
 Dersom du er en foreleser og ønsker å bruke videoene mine til et kurs, eller ønsker å bruke videoene til opplæring av ansatte, så er det helt supert. Fint om du lar meg vite det slik at jeg har litt oversikt om hvem som har brukt videoene :)
