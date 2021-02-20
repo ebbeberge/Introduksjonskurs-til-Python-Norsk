@@ -1,5 +1,5 @@
 # :purple_heart: Introduksjonskurs til Python på Norsk :purple_heart:
-Et 7 timers introduksjonskurs til Python jeg har laget på vegne av kurset IMA*1001 Høst 2020 som gikk parallelt på NTNU Trondheim, NTNU Ålesund, og NTNU Gjøvik. Følg lenkene under for å se videoene. All tilbakemelding er velkommen.
+Et 7 timers introduksjonskurs til Python jeg har laget på vegne av kurset `Matematiske Metoder 1` som gikk parallelt på NTNU Trondheim, NTNU Ålesund, og NTNU Gjøvik i høsten 2020. Følg lenkene under for å se videoene. All tilbakemelding er velkommen.
 
 1. [Python Time 1 - Grunnleggende Python](https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d9c4f88d-96d9-439c-8573-ac2a014d16fa)
 2. [Python Time 2 - Input & Kontrollflyt](https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2aa0f4ec-def7-4b8d-9de4-ac2a014f5e51)
@@ -12,7 +12,7 @@ Et 7 timers introduksjonskurs til Python jeg har laget på vegne av kurset IMA*1
 * Dere finner Jupiter notebook arkene jeg bruker i videoene her i Githubben.
 * Det ligger også et PDF sammendrag her i Githubben som kort forklarer hva som blir gått igjennom i kurset.
 
-I løpet av våren 2021 så har jeg gitt en ny version av `NumPy og MatPlotLib` forelesningen som fokuserer på lineær rekursjonsligninger og har tar opp noen andre ting. Jupyter arkene kan bli funnet i mappen `MM2` her i Githubben, mens videoene kan bli funnet her:
+I løpet av våren 2021 så har jeg laget en ny version av `NumPy og MatPlotLib` forelesningen på vegne av `Matematiske Metoder 2` som gikk parallelt på NTNU Trondheim, NTNU Ålesund, og NTNU Gjøvik. Den nye varianten fokuserer på lineær rekursjonsligninger og har tar opp noen nye ting. Jupyter arkene kan bli funnet i mappen `MM2` her i Githubben, mens videoene kan bli funnet her:
 
 [Løse Rekursjonsligninger med NumPy og MatPlotLib](https://ntnu.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=6848f7b9-770d-471d-9322-acd500072ea5)
 
